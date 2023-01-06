@@ -1,0 +1,16 @@
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\obj\Debug\net5.0\UseNameDataTask.csproj.AssemblyReference.cache
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\obj\Debug\net5.0\UseNameDataTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\obj\Debug\net5.0\UseNameDataTask.AssemblyInfoInputs.cache
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\obj\Debug\net5.0\UseNameDataTask.AssemblyInfo.cs
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\obj\Debug\net5.0\UseNameDataTask.csproj.CoreCompileInputs.cache
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\bin\Debug\net5.0\UseNameDataTask.exe
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\bin\Debug\net5.0\UseNameDataTask.deps.json
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\bin\Debug\net5.0\UseNameDataTask.runtimeconfig.json
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\bin\Debug\net5.0\UseNameDataTask.runtimeconfig.dev.json
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\bin\Debug\net5.0\UseNameDataTask.dll
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\bin\Debug\net5.0\ref\UseNameDataTask.dll
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\bin\Debug\net5.0\UseNameDataTask.pdb
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\obj\Debug\net5.0\UseNameDataTask.dll
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\obj\Debug\net5.0\ref\UseNameDataTask.dll
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\obj\Debug\net5.0\UseNameDataTask.pdb
+C:\Users\atrei\source\repos\Functions\UseNameDataTask\obj\Debug\net5.0\UseNameDataTask.genruntimeconfig.cache
